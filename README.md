@@ -84,7 +84,7 @@ npm start    # For Create React App
 You’ll get a live link like:
 
 ```
-https://your-project-name.vercel.app
+https://car-finder-app.vercel.app/
 ```
 
 ---
